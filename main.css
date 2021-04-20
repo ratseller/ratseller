@@ -1,0 +1,19 @@
+body {
+	background:white;
+	font-family: times;
+	margin: 5;
+}
+
+a {
+	color: blue;
+}
+
+h1 {
+	color: red;
+	
+}
+p {
+	background-color: #999;
+	padding: 10px;
+}
+
