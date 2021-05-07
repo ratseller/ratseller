@@ -19,7 +19,7 @@ p {
 
 .features {
 	background: white;
-	padding: 0px;
+	padding: 20px;
 	display: flex;
 	flex-direction: row;
 }
