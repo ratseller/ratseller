@@ -17,3 +17,18 @@ p {
 	padding: 10px;
 }
 
+.features {
+	background: white;
+	padding: 20px;
+	display: flex;
+	flex-direction: row;
+}
+
+.features figure {
+	margin: auto;
+	width: 200px
+}
+
+.features figure img {
+	width: 200px
+}
