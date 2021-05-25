@@ -5,11 +5,11 @@ body {
 }
 
 a {
-	color: red;
+	color: #FF073A;
 }
 
 h1 {
-	color: red;
+	color: #FF073A;
 	
 }
 p {
@@ -31,12 +31,12 @@ p {
 
 .features figure img {
 	display: inline-table;
-	width: 190px
+	width: 200px
 }
 
 .scroll {
 	width: 200px; 
-	height: 150px; 
+	height: 200px; 
 	line-height: 3em; 
 	overflow:scroll; 
 	border: none; 
